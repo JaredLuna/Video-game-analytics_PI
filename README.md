@@ -33,3 +33,10 @@ Nuevamente se realiza la observación de que en las poblaciones más trabajadora
 
 7._ ¿Podemos estimar las ventas de los juegos actuales o al menos de una categoría? Shooters por ejemplo.
 No exactamente las ventas que se generarán en el periodo actual, pero si las ventas que se generarán por los video juegos lanzados en el periodo actual, mediante una regresión lineal simple teniendo en cuenta el periodo de lanzamiento desde el 2011 hasta el 2016 donde la tendencia es a bajar para todos los tipos de video juegos para consola" por ejemplo, Shooters pasará de generar ventas de $ 70.66 (millones de $US) en 2016 a $ 58.36 (millones de $US) en el 2017.
+
+
+Integrantes:
+Rafael Balestrini
+Alter Caimi
+Luis Rojas
+Jared Luna
